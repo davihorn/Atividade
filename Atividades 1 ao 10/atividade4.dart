@@ -1,3 +1,5 @@
+//Atividade 4 - Faça um Programa que leia 3 notas e imprima a média.
+
 import 'dart:io';
 
 void main() {
@@ -15,3 +17,7 @@ void main() {
 
   print("A média das notas é: $media");
 }
+
+
+
+
