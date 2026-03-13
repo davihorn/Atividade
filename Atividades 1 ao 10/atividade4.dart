@@ -17,7 +17,3 @@ void main() {
 
   print("A média das notas é: $media");
 }
-
-
-
-
