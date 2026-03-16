@@ -1,3 +1,5 @@
+// Atividade 20 - Faça um programa que calcule a média de 10 números
+
 import 'dart:io';
 
 void main() {

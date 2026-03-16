@@ -13,7 +13,7 @@ void main() {
     numero = int.parse(stdin.readLineSync()!);
 
     if (numero != 0) {
-      contador++; //O famoso motorzinho de somar 1 que vimos antes!
+      contador++; //O famoso motorzinho de somar 1 que vimos antes
     }
   }
 

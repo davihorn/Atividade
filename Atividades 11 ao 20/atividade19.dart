@@ -1,3 +1,5 @@
+// Atividade 19 - Faça um programa que verifique se um número é primo
+
 import 'dart:io';
 
 void main() {
